@@ -11,4 +11,4 @@ Meu nome é Emanuelly Chot
 
   emanuelly.chot@escola.pr.gov.br
 
-!{}(https://tenor.com/pt-BR/view/hello-panda-gif-18321790)
+![](https://tenor.com/pt-BR/view/hello-panda-gif-18321790)
